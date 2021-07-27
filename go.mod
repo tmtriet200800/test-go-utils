@@ -1,4 +1,4 @@
-module go_utils
+module github.com/tmtriet200800/test-go-utils
 
 go 1.15
 
