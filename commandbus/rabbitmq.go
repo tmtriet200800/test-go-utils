@@ -3,10 +3,11 @@ package pkgCommandBus
 import (
 	"context"
 	"encoding/json"
-	pkgDomain "go_utils/domain"
-	pkgError "go_utils/errors"
-	pkgLogger "go_utils/logger"
 	"math/rand"
+
+	pkgDomain "github.com/tmtriet200800/test-go-utils/domain"
+	pkgError "github.com/tmtriet200800/test-go-utils/errors"
+	pkgLogger "github.com/tmtriet200800/test-go-utils/logger"
 
 	"github.com/jmoiron/sqlx"
 	"github.com/sirupsen/logrus"

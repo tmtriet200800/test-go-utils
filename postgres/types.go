@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	pkgError "go_utils/errors"
+	pkgError "github.com/tmtriet200800/test-go-utils/errors"
 )
 
 // NullInt64 is an alias for sql.NullInt64 data type

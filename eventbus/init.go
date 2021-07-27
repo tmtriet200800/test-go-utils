@@ -3,7 +3,7 @@ package pkgEventBus
 import (
 	"context"
 
-	pkgDomain "go_utils/domain"
+	pkgDomain "github.com/tmtriet200800/test-go-utils/domain"
 )
 
 // EventHandler function

@@ -3,7 +3,8 @@ package pkgMongo
 import (
 	"encoding/json"
 	"fmt"
-	pkgError "go_utils/errors"
+
+	pkgError "github.com/tmtriet200800/test-go-utils/errors"
 
 	"go.mongodb.org/mongo-driver/bson/bsontype"
 	"go.mongodb.org/mongo-driver/x/bsonx/bsoncore"

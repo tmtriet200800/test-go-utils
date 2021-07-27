@@ -3,10 +3,10 @@ package pkgCommandBus
 // import (
 // 	"context"
 // 	"fmt"
-// 	pkgApplication "go_utils/application"
-// 	pkgDomain "go_utils/domain"
-// 	pkgError "go_utils/errors"
-// 	pkgMessageBus "go_utils/messagebus"
+// 	pkgApplication "github.com/tmtriet200800/test-go-utils/application"
+// 	pkgDomain "github.com/tmtriet200800/test-go-utils/domain"
+// 	pkgError "github.com/tmtriet200800/test-go-utils/errors"
+// 	pkgMessageBus "github.com/tmtriet200800/test-go-utils/messagebus"
 
 // 	"github.com/sirupsen/logrus"
 // )

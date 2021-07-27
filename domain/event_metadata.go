@@ -3,7 +3,7 @@ package pkgDomain
 import (
 	"net"
 
-	pkgIdentity "go_utils/identity"
+	pkgIdentity "github.com/tmtriet200800/test-go-utils/identity"
 )
 
 type EventMetadata struct {

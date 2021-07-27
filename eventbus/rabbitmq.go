@@ -4,9 +4,10 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	pkgDomain "go_utils/domain"
-	pkgError "go_utils/errors"
 	"math/rand"
+
+	pkgDomain "github.com/tmtriet200800/test-go-utils/domain"
+	pkgError "github.com/tmtriet200800/test-go-utils/errors"
 
 	"github.com/sirupsen/logrus"
 	"github.com/streadway/amqp"

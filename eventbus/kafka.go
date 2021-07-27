@@ -4,9 +4,10 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	pkgDomain "go_utils/domain"
-	pkgError "go_utils/errors"
 	"strings"
+
+	pkgDomain "github.com/tmtriet200800/test-go-utils/domain"
+	pkgError "github.com/tmtriet200800/test-go-utils/errors"
 
 	"github.com/segmentio/kafka-go"
 	"github.com/sirupsen/logrus"

@@ -7,7 +7,7 @@ import (
 	"github.com/vardius/trace"
 	"golang.org/x/xerrors"
 
-	pkgApplication "go_utils/application"
+	pkgApplication "github.com/tmtriet200800/test-go-utils/application"
 )
 
 var DefaultSeparator = "\n"
